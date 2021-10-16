@@ -1,0 +1,8 @@
+config.py
+myvenv
+__pycache__
+
+stock*
+
+# Ignore the default SQLite database.
+db.sqlite3
